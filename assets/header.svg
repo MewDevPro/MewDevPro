@@ -210,12 +210,6 @@ g.typingUnderline rect {
       Hi there!
 </text>
 
-<text x="22" y="12" font-family="Helvetica" font-size=".22em"
-      fill="#AAA" font-weight="bold"> 
-      How are you doing?
-</text>
-
-
 <image style="overflow:visible;clip-path:url(#mask);TWFkZUJ5VGFjY2E=;" 
 width="4" x="17" y="8.5"
 xlink:href="data:image/gif;base64,R0lGODlh8QDqAPcAANqnNNuoNNuoNdypNt2qN9upOd6rON+sOduqPNysP+CsN+GtN+SvN+CtOuGuPOKvPeWwOeaxOuOwPuSxP+mzOeu1O+mzPe63PO+5P/O7PvO7P/O8P/S8P9ysQd2vR96wSt6xTt+zUeWyQOazQee0Qum1Qei1Q+u3Q+23QOq3Reu4Ru25RO+6RO+7Rey5SO26Se67Su+8S/O7QvO9Q/S8QfG7RfC8R/a/Rfa/RvO+Sfa/SPC9TPO/TPK/TuC0VOC1V+C2WOG2WuG4XeK6Y+O8ZuO9aOS+a+S/b/bARvfASPfCSvPAT/TATfXBTvjCS/jDTPnDTfnETfnFTvrFT/TBUPbDUfbDUvfEU/jEUfvGUvrHU/vHU/jFVPrHVvvIVvzIVPzJVf3JVv3KV/vIWP3KWP7LWP7LW//MWf/MW//NXP/NXeXBcuXCdebDd+fFfOjHgejIhPnFU/3JV/rGUduoN92tQ/zJWfG+TfnGVOOvOvvHUtqnNe67RfXASfnFT+OuOPG5Pd+rNvnGVfC6QuK5X+ezPPW+Q/XCUfS+R+u2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
