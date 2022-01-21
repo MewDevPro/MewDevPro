@@ -39,13 +39,17 @@
   <img hight="320" width="450" align="right" alt="GIF" src="assets/lie.gif">
   If you want to reach out to me about anything, be it some doubt just ping me （￣︶￣）✌️.
   
-  <a href="mailto:mewdevpro@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/ProCoder.Mew"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:mewdevpro@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/ProCoder.Mew"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
   <br>
-  <a href="https://www.instagram.com/procodermew/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <br>
+  <a href="https://www.instagram.com/procodermew/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pro-coder-mew-120091216/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <p/>
-
+<br>
+<br>
+<br>
+<br>
 <hr/>
 
 <p align="center">
