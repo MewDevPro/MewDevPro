@@ -40,7 +40,7 @@
   If you want to reach out to me about anything, be it some doubt just ping me （￣︶￣）✌️.
   
   <a href="mailto:mewdevpro@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ProCoder.Mew"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/MewDevPro"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
   <br>
   <br>
   <a href="https://www.instagram.com/procodermew/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
