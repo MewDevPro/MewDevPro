@@ -59,5 +59,5 @@
 </p>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=MewDevPro&style=plastic&label=Views" />
-<img src="https://badges.pufler.dev/visits/MewDevPro/MewDevPro?color=black&logo=github" />
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MewDevPro-MewDevPro" />
 </p>
